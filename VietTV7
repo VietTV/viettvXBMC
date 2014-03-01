@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><channels>
+<channels>
+   <channel> 
+           <name>Viet TV7</name>
+           <items>
+                        <item>
+                                <title>US - VPOPTV.COM</title>
+                                <info>VPOPTV.COM</info>
+                                <link>rtmp://64.62.143.5/live/Stream33</link>
+                                <thumbnail>http://vietmtv.com/plantillas/imagesRed/logo.gif</thumbnail>
+                        </item>
+                        <item>
+                                <title>livestream Royal(Friday at 9:00PM)</title>
+                                <link>rtmp://64.62.143.5:1935/live/Stream6</link>
+                        </item>
+                        <item>
+                                <title>Livestream Phong tra WE</title>
+                                <link>rtmp://64.62.143.5/live/Stream4</link>
+                        </item>
+                        <item>
+                                <title>US - VNATV 57.3</title>
+                                <info>Viet Nam America TV 57.3</info>
+                                <link>http://shared.streamwebtown.com/vnitv</link>
+                                <thumbnail>http://vnatv.com/Images/VnaLogo.jpg</thumbnail>
+                        </item>
+                        <item>
+                                <title>US - PHAT TU BI</title>
+                                <info>Phat Tu Bi</info>
+                                <link>http://6587.a.hostable.me/CuocDoiDucPhat.flv</link>
+                        </item>
+                        <item>
+                                <title>Lan va Diep (Musicface)</title>
+                                <link>rtmp://64.62.143.5/live/Stream3</link>
+                        </item>
+                        <item>
+                                <title>US - Viet USA TV</title>
+                                <info>Viet USA TV</info>
+                                <link>http://vietpho.com/videos/tam-tinh-nghe-si/thanh_nga_1.flv</link>
+                        </item>
+                        <item>
+                                <title>US - Saigon TV </title>
+                                <link>rtmp://74.63.219.101:1935/sgtele/myStream.sdp playpath=myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontv.swf pageUrl=http://saigontv.us/ live=true</link>
+                                <thumbnail>http://vietpho.com/images/channels/sgtv.jpg</thumbnail>
+                        </item>
+                        <item>
+                                 <title>US - VBS TV </title>
+                                 <link>rtmp://74.63.219.101/vbstele/myStream.sdp swfUrl=http://saigontv.com/includes/flash/saigontivi.swf pageUrl=http://www.vbstelevision.com//</link>
+                                 <thumbnail>http://vietpho.com/images/channels/vbs.jpg</thumbnail>
+                        </item>
+                        <item>
+                                 <title>US - Viet Christian</title>
+			                           <link>mms://live.vietchristian.com/tv</link>
+			                           <thumbnail>http://tv-online.in/wp-content/uploads/2012/12/VietChristian-TV.jpg</thumbnail>
+			                  </item>
+			                  <item>
+			                           <title>US - Viet Today</title>
+			                           <link>mms://shared.streamwebtown.com/dong_sg</link>
+			                           <thumbnail>http://echipstore.net/logo/viettoday.png</thumbnail>
+			                  </item>
+                        <item>
+                                 <title>US - Saigon Radio Seattle</title>
+                                 <link>http://206.71.180.246:8888/;&amp;topspeed=on</link>
+                                 <thumbnail>http://www.radioguide.fm/uploads/radiostation/srbs-radio.PNG</thumbnail>
+                        </item>
+                        <item>
+                                 <title>US - Saigon Radio Hai Ngoai</title>
+                                 <link>http://vpr.serverroom.us:7492/</link>
+                                 <thumbnail>http://www.saigonradio.com/images/icon.png</thumbnail>
+                       </item>
+                       <item>
+                                 <title>US - VNDC Radio</title>
+                                 <link>http://vndcradio2.serverroom.us:4480/</link>
+                                 <thumbnail>http://thienmusic5.free.fr/VNDC-Logo.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+    <channel>
+                                 
